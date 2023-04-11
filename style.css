@@ -36,16 +36,16 @@ h3:first-child{
     height: 556px;
     position: absolute;
     top: 70px;
-    right: 100px;
+    right: -140px;
 }
 .container .divphai{
-    margin-right: 50px;
-    margin-left: 10px;
+    margin-right: 0px;
+    margin-left: 190px;
     position: relative;
 }
 
 .container .divphai h1{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 28px;
 }
 .container .divphai .fogor{
@@ -66,7 +66,7 @@ h3:first-child{
 }
 .container .divphai input[type="password"]{
     padding: 17px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
     width: 369px;
     outline: none;
     border: none;
@@ -91,13 +91,18 @@ h3:first-child{
     font-size: 3rem;
     margin-top: 20px;
 }
-.or{
+.continue{
     margin-left: 145px;
-    
 }
-.fa-solid{
+.icon1{
     position: absolute;
-    top: 267lpx;
-    right: 20px;
+    left: 330px;
+    top: 304px;
 }
+.icon2{
+    position: absolute;
+    left: 330px;
+    top: 385px;
+}
+
 
