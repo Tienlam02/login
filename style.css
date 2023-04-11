@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 882px;
+    display: flex;
+}
+
+h3:first-child{
+    margin-left: 42px;
+    margin-top: 31px;
+}
+
+.container .divtrai{
+    margin-top: 150px;
+    margin-left: 175px;
+    position: relative;
+    width: 50%; 
+}
+
+.container .divtrai .signin{
+    font-size: 3.125rem;
+    padding-bottom: 20px;
+}
+.container .divtrai .lorem{
+    padding-bottom: 29px;
+    font-size: 2.1875rem;
+}
+.container .divtrai p{
+    padding-bottom: 10px;
+}
+.container .divtrai img{
+    width: 313px;
+    height: 556px;
+    position: absolute;
+    top: 70px;
+    right: 100px;
+}
+.container .divphai{
+    margin-right: 50px;
+    margin-left: 10px;
+    position: relative;
+}
+
+.container .divphai h1{
+    margin-top: 100px;
+    margin-bottom: 28px;
+}
+.container .divphai .fogor{
+    margin-left: 260px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    font-size: 10px;
+}
+.container .divphai input[type="text"]{
+    padding: 17px;
+    margin-bottom: 35px;
+    width: 369px;
+    outline: none;
+    border: none;
+    background-color: #F0EFFF;
+    border-radius: 10px;
+
+}
+.container .divphai input[type="password"]{
+    padding: 17px;
+    margin-bottom: 15px;
+    width: 369px;
+    outline: none;
+    border: none;
+    background-color: #F0EFFF;
+    border-radius: 10px;
+
+
+}
+.container .divphai button{
+    width: 369px;
+    line-height: 49px;
+    margin-bottom: 54px;
+    background-color: blue;
+    color: #FFF;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+
+.divphai .logo{
+    margin-left: 130px;
+    font-size: 3rem;
+    margin-top: 20px;
+}
+.or{
+    margin-left: 145px;
+    
+}
+.fa-solid{
+    position: absolute;
+    top: 267lpx;
+    right: 20px;
+}
+

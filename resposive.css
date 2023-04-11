@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }   
+
+    
+.container .divphai {
+    margin-left: 180px;
+}
+    
+.container .divtrai img{
+    display: none;
+    
+}
+}
